@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/oi-no-kurigoto",
  "yomi": "おいのくりごと",
  "category": "歌学書",
- "description": null,
+ "description": {
+  "kind": "連歌論書",
+  "era": "室町中期（応仁の乱後）",
+  "author": "心敬",
+  "desc": "応仁の乱で都が乱れ、東国に下った心敬が晩年に記した連歌論。早く数多く詠むことを戒め、心を沈めて物の哀れを深く詠むべきことを説き、「ささめごと」に触れる。"
+ },
  "editions": [
   {
    "pid": "1879527",
@@ -118,6 +123,6 @@
   "poems": 0,
   "editions": 1,
   "updated": "2026-10-30",
-  "updated_at": "2026-10-30T00:23:03+09:00"
+  "updated_at": "2026-10-30T08:19:37+09:00"
  }
 }
